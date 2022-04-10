@@ -69,7 +69,7 @@ When I open the developer window I can switch between the developers either by s
 
 
 # Links <span id="Links"></span>
-- you can open the application by [Website](https://github.com/GSG-CF05/CC-team.git) 
+- you can open the application by [Website](https://gsg-cf05.github.io/CC-team/) 
 - API documentation  [Exchang CryptoCoin](https://api.coincap.io/v2/assets)and  [API2](https://www.exchangerate-api.com/)
 - [Figma link](https://www.figma.com/file/g1WCiLIDbSXbBk2vnpmjRL/currency-exchange?node-id=20%3A186)
 
